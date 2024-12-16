@@ -1,7 +1,7 @@
 
-[Link to article][https://lethain.com/measuring-developer-experience-benchmarks-theory-of-improvement/]
+[Link to article](https://lethain.com/measuring-developer-experience-benchmarks-theory-of-improvement/)
 
-#Challenges in developer productivity tools
+# Challenges in developer productivity tools
 
 * Use of productivity to evaluate rather than learn. 
 * Integration across multiple tools.
@@ -48,13 +48,13 @@ A goal-able metric is a leading metric that you can improve resulting in a chang
 
 Question: Are judge-able and lagging metrics, and goal-able and leading metrics synonyms? Clarify.
 
-## A critique of [DX Core 4 metrics][https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/]
+## A critique of [DX Core 4 metrics](https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/)
 
 * DX Core 4 provides good judge-able/output metrics. The onus is on the teams using this framework to evolve strategies using these metrics.
 * % of time spent on new capabilities is highly useful but difficult to measure. Why?
 * Time to nth PR is a highly useful onboarding metric.
 * R&D (spend ?) as a % of revenue is a good self evlauation metric for the executive and the board.
-* A composite DX metric ([DXI][https://getdx.com/research/the-one-number-you-need-to-increase-roi-per-engineer/], a custom metric derived from 14 different metricsdefined by the DX team) is a useful but expensive metric. Useful because it considers various factors and is derived using DX's research. Expensive because it is difficult to explain.
+* A composite DX metric ([DXI](https://getdx.com/research/the-one-number-you-need-to-increase-roi-per-engineer/), a custom metric derived from 14 different metricsdefined by the DX team) is a useful but expensive metric. Useful because it considers various factors and is derived using DX's research. Expensive because it is difficult to explain.
 
 ## Predictions for 2025
 
@@ -71,5 +71,5 @@ Question: Are judge-able and lagging metrics, and goal-able and leading metrics 
 # My takeaways
 
 * Use Will's criteria when evaluating a developer productivity tool or even starting a developer productivity initiative in the future.
-* New topics to explore - [Wardley mapping][https://lethain.com/learning-wardley-mapping/], [Strategy testing][https://lethain.com/testing-strategy-iterative-refinement/], [DX Core 4][https://getdx.com/news/introducing-the-dx-core-4/], and [Accelerate][https://www.amazon.in/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339]
+* New topics to explore - [Wardley mapping](https://lethain.com/learning-wardley-mapping/), [Strategy testing](https://lethain.com/testing-strategy-iterative-refinement/), [DX Core 4](https://getdx.com/news/introducing-the-dx-core-4/), and [Accelerate](https://www.amazon.in/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * Immediate action - drive the QA platform team headed by Kande to do rather than just analyse.
